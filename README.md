@@ -61,7 +61,7 @@ This diagram shows an overview of how Klimerko works
 You'll need these components to follow this guide.
 Some items are clickable and you can buy them right away.
 
-- [NodeMCU](https://www.aliexpress.com/item/33053690164.html) Board *(if buying, choose the "NodeMcu v3 CP2102")*
+- [NodeMCU](https://www.aliexpress.com/item/32665100123.html) Board *(if buying, choose the "NodeMcu v3 CP2102")*
 - [Plantower PMS7003](https://www.aliexpress.com/item/32623909733.html) Air Quality Sensor *(if buying, get the one with Bridge Board and Connector Cable)*
     - Bridge board
     - Connector cable
